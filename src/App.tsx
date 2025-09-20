@@ -842,6 +842,35 @@ function App() {
           }
         `
       }} />
+      
+      {/* Footer */}
+      <footer className="bg-gray-900 text-white py-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex flex-col md:flex-row justify-between items-center">
+            <div className="mb-4 md:mb-0">
+              <h3 className="text-2xl font-bold text-teal-400">ClinicBeauty</h3>
+              <p className="text-gray-400 mt-1">Sua beleza, nosso cuidado</p>
+            </div>
+            
+            <div className="text-center md:text-right">
+              <p className="text-gray-400 text-sm">
+                © 2024 ClinicBeauty. Todos os direitos reservados.
+              </p>
+              <p className="text-gray-500 text-xs mt-1">
+                Desenvolvido por{' '}
+                <a 
+                  href="https://github.com/adsmbr" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-teal-400 hover:text-teal-300 transition-colors"
+                >
+                  Alisson Montijo
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }

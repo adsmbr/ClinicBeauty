@@ -3,7 +3,11 @@
   "private": true,
   "version": "1.0.0",
   "description": "Aplicação web para clínica médica e estética ClinicBeauty",
-  "author": "ClinicBeauty Team",
+  "author": {
+    "name": "Alisson Montijo",
+    "email": "alissonmontijo@gmail.com",
+    "url": "https://github.com/adsmbr"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

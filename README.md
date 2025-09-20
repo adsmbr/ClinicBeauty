@@ -63,9 +63,29 @@ Este projeto está licenciado sob a **Creative Commons Attribution-NonCommercial
 - 📧 **Uso comercial**: Entre em contato para licenciamento comercial
 
 ### Direitos Autorais
-© 2024 adsmbr. Todos os direitos reservados.
+© 2024 Alisson Montijo (adsmbr). Todos os direitos reservados.
 
 Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
+
+## 👨‍💻 Desenvolvedor
+
+**Alisson Montijo**
+- 🐙 GitHub: [@adsmbr](https://github.com/adsmbr)
+- 📧 Email: alissonmontijo@gmail.com
+- 💼 LinkedIn: [Alisson Montijo](https://linkedin.com/in/alissonmontijo)
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+- Reportar bugs
+- Sugerir melhorias
+- Enviar pull requests
+
+## 📞 Contato
+
+Para dúvidas sobre o projeto ou oportunidades profissionais:
+- 📧 **Email**: alissonmontijo@gmail.com
+- 🐙 **GitHub**: [@adsmbr](https://github.com/adsmbr)
 - **Equipe Médica**: Apresentação dos profissionais
 - **Depoimentos**: Feedback de pacientes satisfeitos
 - **Agendamento**: Modal para solicitação de consultas
