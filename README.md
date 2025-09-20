@@ -63,7 +63,7 @@ Este projeto está licenciado sob a **Creative Commons Attribution-NonCommercial
 - 📧 **Uso comercial**: Entre em contato para licenciamento comercial
 
 ### Direitos Autorais
-© 2024 Alisson Montijo (adsmbr). Todos os direitos reservados.
+© 2025 Alisson Montijo (adsmbr). Todos os direitos reservados.
 
 Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
@@ -103,4 +103,4 @@ O design foi cuidadosamente elaborado com:
 
 ## 📄 Licença
 
-© 2024 ClinicBeauty. Todos os direitos reservados.
+© 2025 ClinicBeauty. Todos os direitos reservados.

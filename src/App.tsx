@@ -658,7 +658,7 @@ function App() {
               Sua beleza, nosso cuidado. Excelência em medicina e estética.
             </p>
             <p className="text-gray-500 text-sm">
-              © 2024 ClinicBeauty. Todos os direitos reservados.
+              © 2025 ClinicBeauty. Todos os direitos reservados.
             </p>
           </div>
         </div>
@@ -854,8 +854,8 @@ function App() {
             
             <div className="text-center md:text-right">
               <p className="text-gray-400 text-sm">
-                © 2024 ClinicBeauty. Todos os direitos reservados.
-              </p>
+                 © 2025 ClinicBeauty. Todos os direitos reservados.
+               </p>
               <p className="text-gray-500 text-xs mt-1">
                 Desenvolvido por{' '}
                 <a 
