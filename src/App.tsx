@@ -647,22 +647,7 @@ function App() {
          </div>
        </section>
 
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-8">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <h3 className="text-2xl font-bold mb-4">
-              <span className="text-teal-500">Clinic</span>Beauty
-            </h3>
-            <p className="text-gray-400 mb-4">
-              Sua beleza, nosso cuidado. Excelência em medicina e estética.
-            </p>
-            <p className="text-gray-500 text-sm">
-              © 2025 ClinicBeauty. Todos os direitos reservados.
-            </p>
-          </div>
-        </div>
-      </footer>
+
 
       {/* WhatsApp Floating Button */}
       <a
